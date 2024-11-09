@@ -1,0 +1,33 @@
+.text{
+    color:purple;
+}
+.text-2{
+    color:red;
+
+.button-1{
+backgroundcolor:blue; 
+}
+
+. button-2{
+backgroundcolor:purple;
+}
+
+.button-3{
+backgroundcolor:yellow;
+}
+
+.button-4{
+backgroudcolor:red;
+}
+.btn-about:hover{
+    background-color: blanchedalmond;
+}
+
+.bg-img{
+    bounder-raduis:50px;
+    backgroundcolor:aqua
+}
+
+.img-kanan{
+ filter:grayscale[];
+}
